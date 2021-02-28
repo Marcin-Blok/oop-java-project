@@ -3,7 +3,7 @@ package pl.marcinblok.oop.drive;
 import java.util.HashMap;
 import java.util.Map;
 
-public class SDDDrive implements Drive{
+public class SSDDrive implements Drive{
     private Map<String, File> files = new HashMap<>();
 
 
