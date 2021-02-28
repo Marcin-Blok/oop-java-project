@@ -1,6 +1,8 @@
 package pl.marcinblok.oop;
 
 
+import pl.marcinblok.oop.usbdevice.USBDevice;
+
 import java.util.ArrayList;
 import java.util.List;
 
