@@ -1,6 +1,7 @@
 package pl.marcinblok.oop;
 
 
+import pl.marcinblok.oop.drive.Drive;
 import pl.marcinblok.oop.usbdevice.USBDevice;
 
 import java.util.ArrayList;
