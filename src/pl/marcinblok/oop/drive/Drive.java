@@ -1,4 +1,4 @@
-package pl.marcinblok.oop;
+package pl.marcinblok.oop.drive;
 
 
 public interface Drive {
