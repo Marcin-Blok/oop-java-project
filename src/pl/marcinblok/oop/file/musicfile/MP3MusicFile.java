@@ -17,6 +17,7 @@ public class MP3MusicFile extends AbstractMusicFile{
     public void play() {
         System.out.println("Playing MP3 file");
     }
+
     public int getQuality(){
         return quality;
     }

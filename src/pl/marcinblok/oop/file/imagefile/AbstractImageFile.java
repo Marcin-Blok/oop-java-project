@@ -5,12 +5,12 @@ import pl.marcinblok.oop.file.FileType;
 
 public abstract class AbstractImageFile extends AbstractFile {
 
-    public AbstractImageFile(String name, int size) {
+    protected AbstractImageFile(String name, int size) {
         super(name, size);
     }
 
     @Override
     public FileType getType() {
-        return null;
+        return FileType.IMAGE;
     }
 }

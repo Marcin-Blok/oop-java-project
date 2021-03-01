@@ -6,7 +6,7 @@ public class Monitor {
 
     public static int MAX_HEIGHT = 3840;
 
-    public int getMaxHeight(){
+    public static int getMaxHeight(){
         return MAX_HEIGHT;
     }
 
