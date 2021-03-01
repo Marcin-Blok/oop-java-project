@@ -11,11 +11,11 @@ public abstract class AbstractFile implements File{
 
     @Override
     public String getName() {
-        return null;
+        return this.name;
     }
 
     @Override
     public int getSize() {
-        return 0;
+        return this.size;
     }
 }
