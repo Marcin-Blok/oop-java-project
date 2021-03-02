@@ -21,6 +21,7 @@ public class Mouse implements USBDevice{
 
     @Override
     public String getName() {
-        return name;
+        return "Mouse: " + name;
     }
+
 }

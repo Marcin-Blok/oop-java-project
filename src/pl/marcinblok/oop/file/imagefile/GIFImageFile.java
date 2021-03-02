@@ -1,7 +1,7 @@
 package pl.marcinblok.oop.file.imagefile;
 
-public class GITImageFile extends AbstractImageFile{
-    public GITImageFile(String name, int size) {
+public class GIFImageFile extends AbstractImageFile{
+    public GIFImageFile(String name, int size) {
         super(name, size);
     }
 
